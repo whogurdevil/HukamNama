@@ -7,9 +7,11 @@ function App() {
 
   return (
     <>
-    <HomePage/>
+  <TemplatePage/>
+
     </>
   )
 }
+
 
 export default App
